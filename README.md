@@ -1,6 +1,6 @@
 # GIS Day 2012
 
-
+![GIS Day 2012 event graphic](image/gis-day-2012-slide.jpg)
 
 Friday, November 9, 2012 \
 Mann Library 102
@@ -66,4 +66,5 @@ We are very excited to host (with the help of Diana Sinton) a new event this yea
 > **Note**
 >
 > This event was re-scheduled for December 5, 2012.
-> Congratulations to our winners, Nick Hollingshead (Iron Mapper 2012!) and Dave Bubniak (runner up)!
+> Congratulations to our winners:
+> - Nick Hollingshead (Iron Mapper 2012!) and Dave Bubniak (runner up)!
