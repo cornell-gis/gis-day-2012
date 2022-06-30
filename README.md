@@ -17,6 +17,7 @@ GIS Day is held each November during Geography Awareness Week, with events in mo
 | 3:45pm to 5:00pm  | Iron Mapper competition | Mann Library Stone Classroom |
 
 ## Posters
+
 - Geospatial Science and Technology Instruction at Cornell
     - Steve DeGloria (Crop and Soil Sciences, Cornell)
     - Keith Jenkins (Mann Library, Cornell)
@@ -32,6 +33,7 @@ GIS Day is held each November during Geography Awareness Week, with events in mo
     - Bryan Chan (undergraduate, College of Agriculture and Life Sciences, Cornell)
 
 ## Geocaching (12:00pm to 2:00pm)
+
 Use a GPS-enabled device to try to find hidden geocaches around campus. Borrow a GPS unit from the table in the Mann Library lobby, or bring your own!
 
 (No registration is required for geocaching – just show up!)
@@ -42,25 +44,26 @@ Short presentations (about 5 minutes) given by folks from across several Cornell
 
 - Geovisualizations from the Program on Applied Demographics
     - Joe Francis (Dept. of Development Sociology, Cornell)
-- Sanborn Fire Insurance Maps as a Portal to Crowd-Sourced Historical Information: An Update
+- [Sanborn Fire Insurance Maps as a Portal to Crowd-Sourced Historical Information: An Update](slides/Kibbee.pdf)
     - Bob Kibbee (Retired map librarian, Olin Library, Cornell)
-- Municipal GIS
+- [Municipal GIS](slides/Aslanis.pdf)
     - Ruth Aslanis (City of Ithaca)
-- ArcMap to PDF: What are the Options?
+- [ArcMap to PDF: What are the Options?](slides/Ayers.pdf)
     - Diane Ayers (Institute for Resource Information Sciences, Dept. of Crop and Soil Sciences, Cornell)
-- On-Line GIS
+- [Online GIS](slides/Smith.pdf)
     - Steve Smith (Institute for Resource Information Sciences, Dept. of Crop and Soil Sciences, Cornell)
 - Using GIS to Model the Spread of Emerald Ash Borer through a Forest Plot
     - Sally Whisler (Dept. of Natural Resources, Cornell)
 - Improving Access to USGS topographic maps
     - Keith Jenkins (Cornell University Library)
-- Introducing... Iron Mapper!
+- [Introducing... Iron Mapper!](slides/Sinton.pdf)
     - Diana Sinton (University of Redlands)
 
 ## Iron Mapper
 
 We are very excited to host (with the help of Diana Sinton) a new event this year: Iron Mapper! Inspired by "Iron Chefs", contestants will have 60 minutes to make a map using a "secret" data layer that will be revealed at the start of the event. This will be an event to remember for all time... an epic map battle to determine who rules the (cartographic) world. The number of contestants will be limited, so register now!
 
-*UPDATE: This event was re-scheduled for December 5, 2012.*
-
-Congratulations to our winners, Nick Hollingshead (Iron Mapper 2012!) and Dave Bubniak (runner up)!
+> **Note**
+>
+> This event was re-scheduled for December 5, 2012.
+> Congratulations to our winners, Nick Hollingshead (Iron Mapper 2012!) and Dave Bubniak (runner up)!
